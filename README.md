@@ -99,7 +99,7 @@ Have questions? Reach out!
 
 ---
 
-## ⭐️ Show Your Support
+##  Show Your Support
 
 If you liked this project, give it a ⭐ on [GitHub](https://github.com/YOUR_USERNAME/collab-editor) — it helps!
 
