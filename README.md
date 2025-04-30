@@ -1,4 +1,4 @@
-# 📝 Real-Time Collaborative Text Editor
+#  Real-Time Collaborative Text Editor
 
 A **Google Docs-style** collaborative editor where multiple users can edit a document **in real-time**.
 
@@ -6,22 +6,22 @@ Built with **React**, **Node.js**, **Socket.IO**, and **Express**.
 
 ---
 
-## 🚀 Demo
+##  Demo
 
 ![Demo GIF](frontend/collab.gif) <!-- Replace with your own GIF or image -->
 
 ---
 
-## 🌟 Features
+##  Features
 
-- ✍️ **Real-Time Editing** – Multiple users can type simultaneously.
-- 🌐 **WebSocket Communication** – Powered by Socket.IO for live updates.
-- 📄 **Document Synchronization** – All clients stay perfectly in sync.
-- 🔥 **Fast & Lightweight** – Built for speed using React & Express.
+-  **Real-Time Editing** – Multiple users can type simultaneously.
+-  **WebSocket Communication** – Powered by Socket.IO for live updates.
+-  **Document Synchronization** – All clients stay perfectly in sync.
+-  **Fast & Lightweight** – Built for speed using React & Express.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React, Socket.IO Client
 - **Backend**: Node.js, Express, Socket.IO
@@ -29,7 +29,7 @@ Built with **React**, **Node.js**, **Socket.IO**, and **Express**.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 /collab-editor
@@ -44,7 +44,7 @@ Built with **React**, **Node.js**, **Socket.IO**, and **Express**.
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
@@ -72,7 +72,7 @@ npm start
 
 ---
 
-## 🌟 Next Features (In Progress)
+##  Next Features (In Progress)
 
 - [ ] Rich Text Editing with **Quill.js**.
 - [ ] **User Authentication** – Login & manage your documents.
@@ -81,7 +81,7 @@ npm start
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 - How to implement **real-time communication** using WebSockets.
 - Managing **frontend-backend synchronization**.
@@ -90,12 +90,12 @@ npm start
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Have questions? Reach out!
 
-- **GitHub**: [YOUR GITHUB LINK]
-- **Email**: [YOUR EMAIL]
+- **GitHub**: github.com/danv27
+- **Email**: vdanny911@gmail.com
 
 ---
 
