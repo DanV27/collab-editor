@@ -8,7 +8,7 @@ Built with **React**, **Node.js**, **Socket.IO**, and **Express**.
 
 ## 🚀 Demo
 
-![Demo GIF](demo.gif) <!-- Replace with your own GIF or image -->
+![Demo GIF](frontend/collab.gif) <!-- Replace with your own GIF or image -->
 
 ---
 
